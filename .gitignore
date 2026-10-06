@@ -1,0 +1,9 @@
+# avoid build, lib and bin folders
+build
+lib
+bin
+include
+lib
+bin
+src/main.cpp
+.vscode
